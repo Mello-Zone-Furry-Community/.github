@@ -1,55 +1,63 @@
-# 🪐 Mello Zone Furry Community
+# 🪐 Mello Zone Interactive Studios
 
-> Interactive virtual entertainment, immersive community experiences, and creator-driven innovation as well as a Furry Community Home and Hub.
+> Interactive virtual entertainment, immersive community experiences, and creator-driven innovation.
 
 ![MelloZone Banner](https://www.mellozone.site/wp-content/themes/mellozone-1.3.13/assets/img/mz-mascot-hero.png)
 
-## 🌐 About MelloZone
+---
 
-MelloZone is a digital entertainment and interactive community platform centered around:
+# 🌐 About Mello Zone Interactive Studios
 
+MelloZone Interactive Studios is a digital entertainment and interactive community platform focused on immersive online experiences, virtual communities, creator technology, and interactive livestream innovation.
+
+The platform explores the future of audience participation by blending:
 - VRChat culture
 - Interactive livestream systems
-- Virtual communities
-- Audience-driven experiences
-- Creator technology
-- Immersive social entertainment
+- Virtual entertainment
+- Creator-driven experiences
+- Community technology
+- Immersive social interaction
 
-Our goal is to help shape the future of virtual entertainment by blending community interaction, livestream innovation, and immersive digital experiences into one evolving ecosystem.
+Our mission is to help shape the next generation of online entertainment where audiences become active participants inside the experience itself.
 
 ---
 
 # 🚀 Core Focus Areas
 
 ## 🎭 Interactive VR Entertainment
-Developing systems where viewers can directly interact with and influence livestream experiences in real time.
+Developing systems where communities and livestream audiences can interact with and influence experiences in real time.
 
 Examples include:
-- Viewer-controlled avatar effects
-- Interactive VR events
-- Live audience participation systems
+- Viewer-controlled avatar systems
+- Interactive VR experiences
+- Audience-triggered livestream events
 - Real-time virtual engagement mechanics
+- Immersive creator participation systems
 
 ---
 
 ## 🧠 Creator Technology
-Exploring tools and systems for:
-- VRChat integration
+Exploring tools and systems focused on:
+- VRChat integrations
 - Streaming automation
 - Interactive audience systems
-- Community-driven creator experiences
+- Creator-focused infrastructure
 - Virtual social experimentation
+- Community-driven digital experiences
 
 ---
 
 ## 🌌 Community & Culture
-MelloZone was built around creating positive, creative, and immersive virtual spaces where people can connect through:
+
+Mello Zone was built around creating positive, creative, and immersive online spaces where people can connect through:
 - VR communities
-- Events
 - Gaming
 - Art
 - Streaming
+- Events
 - Shared virtual experiences
+
+MelloZone also proudly supports and hosts the **Mello Zone Furry Community**, a welcoming environment centered around creativity, inclusion, friendship, and virtual social culture.
 
 ---
 
@@ -64,6 +72,7 @@ Current and upcoming ecosystem projects may include:
 | Creator Utility Tools | Community-focused creator infrastructure |
 | Streaming Automation | Interactive livestream mechanics |
 | Community Platforms | Social and entertainment experiences |
+| Interactive Event Systems | Audience-driven virtual events |
 
 ---
 
@@ -72,11 +81,13 @@ Current and upcoming ecosystem projects may include:
 ## Official Website
 🌐 https://mellozone.site
 
-## Social Platforms
+## Platform Ecosystem
 - TikTok
 - Twitch
 - YouTube
 - Discord
+- GitHub
+- LinkedIn
 - VRChat Community Presence
 
 ---
@@ -85,13 +96,14 @@ Current and upcoming ecosystem projects may include:
 
 The future of entertainment is becoming interactive.
 
-MelloZone exists to explore how:
+MelloZone Interactive Studios exists to explore how:
 - virtual worlds,
 - creator ecosystems,
 - livestream interaction,
-- and digital communities
+- digital communities,
+- and immersive technologies
 
-can merge into a new generation of immersive online experiences.
+can merge into a new generation of online entertainment experiences.
 
 We believe entertainment is evolving from something audiences simply watch into something they actively participate in.
 
@@ -106,8 +118,9 @@ We are interested in collaborating with:
 - Community builders
 - Digital artists
 - Interactive entertainment innovators
+- Virtual event organizers
 
-If you are building something exciting in VR, streaming, or immersive social technology, we'd love to connect.
+If you are building something exciting in VR, streaming, immersive technology, or digital entertainment, we'd love to connect.
 
 ---
 
@@ -118,6 +131,7 @@ If you are building something exciting in VR, streaming, or immersive social tec
 
 ---
 
-# ⚡ Mello Zone Furry Community
+# ⚡ Mello Zone Interactive Studios
 
-> “It may become more than a reality.”
+> “The future of entertainment won’t just be watched.  
+> It will be experienced.”
