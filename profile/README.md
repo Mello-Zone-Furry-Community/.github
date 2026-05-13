@@ -1,14 +1,13 @@
-# 🪐 Mello Zone Interactive Studios
-
+# 🪐 Mello Zone Furry Community
 > Interactive virtual entertainment, immersive community experiences, and creator-driven innovation.
 
 ![MelloZone Banner](https://www.mellozone.site/wp-content/themes/mellozone-1.3.13/assets/img/mz-mascot-hero.png)
 
 ---
 
-# 🌐 About Mello Zone Interactive Studios
+# 🌐 About Mello Zone Furry Community
 
-MelloZone Interactive Studios is a digital entertainment and interactive community platform focused on immersive online experiences, virtual communities, creator technology, and interactive livestream innovation.
+Mello Zone Furry Community is a digital entertainment and interactive community platform focused on immersive online experiences, virtual communities, creator technology, and interactive livestream innovation.
 
 The platform explores the future of audience participation by blending:
 - VRChat culture
@@ -49,7 +48,7 @@ Exploring tools and systems focused on:
 
 ## 🌌 Community & Culture
 
-Mello Zone was built around creating positive, creative, and immersive online spaces where people can connect through:
+Mello Zone Furry Community was built around creating positive, creative, and immersive online spaces where people can connect through:
 - VR communities
 - Gaming
 - Art
@@ -57,7 +56,7 @@ Mello Zone was built around creating positive, creative, and immersive online sp
 - Events
 - Shared virtual experiences
 
-MelloZone also proudly supports and hosts the **Mello Zone Furry Community**, a welcoming environment centered around creativity, inclusion, friendship, and virtual social culture.
+Mello Zone Furry Community also proudly supports and hosts the **Mello Zone Furry Community**, a welcoming environment centered around creativity, inclusion, friendship, and virtual social culture.
 
 ---
 
@@ -131,7 +130,7 @@ If you are building something exciting in VR, streaming, immersive technology, o
 
 ---
 
-# ⚡ Mello Zone Interactive Studios
+# ⚡ Mello Zone Furry Community
 
 > “The future of entertainment won’t just be watched.  
 > It will be experienced.”
